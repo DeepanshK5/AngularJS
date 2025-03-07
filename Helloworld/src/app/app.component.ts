@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Hello from BridgeLabz';
+  imgUrl = 'https://www.bridgelabz.com/assets/images/BridgeLabz-logo.png'; // Dynamic Image URL
 }
